@@ -1,0 +1,6 @@
+{
+  "name": "CreciSano",
+  "description": "Plataforma digital de recetas saludables, prácticas y económicas para madres y familias.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
